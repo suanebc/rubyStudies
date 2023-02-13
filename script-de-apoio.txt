@@ -1,0 +1,4 @@
+require_relative 'conta'
+conta_suane = Conta.new(123, 'Suane Bittencourt', 1500)
+conta_jose = Conta.new(165, 'Jose Bonifacio Goes Jr', 1500)
+conta_suane.transferir(conta_jose, 200)
