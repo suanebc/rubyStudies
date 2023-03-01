@@ -1,5 +1,5 @@
  
-#Retorne o maior valor de um array
+#escreva um programa que retorne o maior valor de um array
 
 numeros = [5, 3,100, 14, 6, 72, 7, 86, 54, 5, 97, 1, 7, 12]
 
